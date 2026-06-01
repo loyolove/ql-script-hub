@@ -72,6 +72,7 @@ ql-script-hub/
 | `DD_BOT_TOKEN` | 钉钉机器人Token | 可选 | `xxxxxxxxxxxxxxxxxx` | 钉钉群机器人 |
 | `DD_BOT_SECRET` | 钉钉机器人密钥 | 可选 | `xxxxxxxxxxxxxxxxxx` | 钉钉群机器人密钥（可选） |
 | `BARK_PUSH` | Bark推送地址 | 可选 | `https://api.day.app/your_key/` | iOS Bark推送 |
+| `飞书` | webhook地址的传参值 | 可选 | `1abcd9f3-1234-1234-1234-12345dd0d910` | 飞书机器人推送 |
 
 #### 🏔️ 恩山论坛签到配置
 
